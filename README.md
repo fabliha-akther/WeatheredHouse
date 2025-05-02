@@ -2,7 +2,7 @@
 
 This is a simple OpenGL Python project that draws a house and simulates rainfall. It also supports dynamic day and night transitions and wind direction using keyboard input.
 
-
+---
 
 ## 🌦️ Features
 
@@ -12,6 +12,7 @@ This is a simple OpenGL Python project that draws a house and simulates rainfall
 - 💨 Wind direction (left or right bend in rain)
 
 
+---
 
 ## 🕹️ Controls
 
@@ -23,7 +24,7 @@ This is a simple OpenGL Python project that draws a house and simulates rainfall
 | Right Arrow         | Wind blows right (rain bends right)|
 
 
-
+---
 ## 🖥️ How to Run
 
 1. **Install required libraries**:
