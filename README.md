@@ -1,4 +1,4 @@
-# 🏠 House with Rain Animation (OpenGL)
+# 🏠 House with Rain Animation 
 
 This is a simple OpenGL Python project that draws a house and simulates rainfall. It also supports dynamic day and night transitions and wind direction using keyboard input.
 
