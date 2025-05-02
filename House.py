@@ -3,7 +3,6 @@ from OpenGL.GLUT import *
 
 
 
-# TASK 01
 
 day_night = 1.0
 rain_bend = 0
