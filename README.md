@@ -24,13 +24,13 @@ This is a simple OpenGL Python project that draws a house and simulates rainfall
 | Right Arrow         | Wind blows right (rain bends right)|
 
 ---
-## House Preview
+<h3>House Game Preview</h3>
 
-### Day View
-![House Day](House_Day.png)
+<p float="left">
+  <img src="House_Day.png" width="300"/>
+  <img src="House_Night.png" width="300"/>
+</p>
 
-### Night View
-![House Night](House_Night.png)
 
 ---
 ## 🖥️ How to Run
